@@ -99,8 +99,6 @@ El reporte se genera aunque uno o más escenarios fallen, siempre que Cucumber a
 
 ## Resultado de referencia
 
-En la última ejecución de validación de este proyecto se obtuvieron **4 escenarios: 3 aprobados y 1 fallido; 21 pasos: 20 aprobados y 1 fallido**. El escenario de login con credenciales inválidas agotó el timeout de Cucumber (5 segundos) al comprobar el mensaje de error. Los otros tres escenarios finalizaron correctamente y se generó el reporte Word correspondiente.
-
 Este resultado es una referencia de la ejecución de validación, no un resultado garantizado para corridas posteriores. Ejecuta `npm test` para obtener el estado actual y su nuevo reporte.
 
 ## Notas de mantenimiento
